@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+### DUMMY TEMPLATE ### 
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
 
@@ -18,9 +19,6 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
-### Day 1: June 27, Monday
-
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
@@ -28,3 +26,14 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 1: October 21, Monday
+
+**Today's Progress**: Working through Chapter 13 Java generics on the below course.
+
+**Thoughts** Struggling with all the rules Java has but will keep going. I will be completing Chapter 13 and attempting the challenge provided on the course or search for a Java Challenge to try.
+
+**Goal** Take the OCA exam
+
+**Link(s) to work**
+1. [https://www.udemy.com/course/master-practical-java-development/learn/lecture/7767648#overview 

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de06288f-7e8b-48de-93d8-05a3489f67c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/intl/bn/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/bn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/bn/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/bn/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/bn/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/bn/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ca/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ca/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ca/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ca/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ca/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ca/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ch/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ch/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ch/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ch/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ch/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/de/FAQ-de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/de/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/de/log-de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/de/quellen.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/de/r1-log-de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/de/regeln.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/el/FAQ-el.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/el/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/el/log-el.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/el/r1-log-el.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/el/resources-el.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/el/rules-el.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/es/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/es/diario.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/es/preguntas_frecuentes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/es/r1-diario.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/es/registro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/es/reglas.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/FAQ-fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/regles.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/resources-fr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/fr/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/it/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/it/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/it/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/it/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/it/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ja/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ja/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ja/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ja/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ja/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ja/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ko/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ko/README-ko.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ko/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ko/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ko/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ko/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/no/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/no/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/no/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/no/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/no/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/no/rules.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pl/FAQ-pl.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pl/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pl/materiały.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pl/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pl/regulamin.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pt-br/LEIAME.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pt-br/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pt-br/perguntas_frequentes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pt-br/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pt-br/recursos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/pt-br/regras.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ru/README-ru.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ua/FAQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ua/README-ua.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ua/log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ua/r1-log.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ua/resources.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intl/ua/rules.md" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="8" />
+    <option name="y" value="30" />
+    <option name="width" value="704" />
+    <option name="height" value="927" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="100-days-of-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="100-days-of-code" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de06288f-7e8b-48de-93d8-05a3489f67c3" name="Default Changelist" comment="" />
+      <created>1571690582071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571690582071</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="8" y="30" width="704" height="927" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24924472" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
